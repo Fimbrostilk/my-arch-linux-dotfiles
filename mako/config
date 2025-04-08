@@ -1,0 +1,12 @@
+background-color=#00000033
+border-color=#ffffff
+border-radius=0
+
+margin=0, 0, 10, 0
+outer-margin=10
+
+text-color=#ffffff
+font=0x Proto Nerd Font Mono 12
+
+icons=0
+default-timeout=7000
